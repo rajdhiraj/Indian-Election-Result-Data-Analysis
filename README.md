@@ -44,7 +44,7 @@ git clone https://github.com/rajdhiraj/Indian-Election-Result-Data-Analysis
 2. Navigate to the project directory:
 
 ```bash
-cd Indian-Loksabha-Election-2024-Result-Data-Analysis
+cd Indian-Election-Result-Data-Analysis
 ```
 
 3. Open the Jupyter notebook:
